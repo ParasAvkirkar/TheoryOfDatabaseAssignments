@@ -1,0 +1,1 @@
+load from "C:\Users\Paras\Documents\TheoryOfDatabase\homework1\nyzip.csv" of del MESSAGES load.msg INSERT INTO CSE532.ZIPPOP;

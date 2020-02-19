@@ -1,0 +1,6 @@
+CREATE TABLE CSE532.ZIPPOP (
+	ZIP int,
+	COUNTY int,
+	GEOID int,
+	ZPOP bigint
+);
